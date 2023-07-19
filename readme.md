@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
     `python app.py`
 
-5.  Open your web browser and go to <http://127.0.0.1:5000/> to view the website.
+5.  Open your web browser and go to<http://127.0.0.1:5000/> view the website.
 
 Usage
 -----
